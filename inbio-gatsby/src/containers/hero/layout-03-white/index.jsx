@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Typed from "react-typed";
-import Particles from "react-particles-js";
+import Particles from "react-tsparticles";
 import Button from "@ui/button";
 import Image from "@ui/image";
 import { ImageType, HeadingType, ButtonType } from "@utils/types";

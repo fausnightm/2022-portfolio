@@ -31,8 +31,8 @@ module.exports = {
             },
         ],
         contact: {
-            phone: "01234567890",
-            email: "admin@example.com",
+            phone: "3308446568",
+            email: "fausnightmax@gmail.com",
         },
     },
     plugins: [

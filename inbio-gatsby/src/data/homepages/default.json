@@ -6,20 +6,20 @@
             "section": "hero-section",
             "headings": [
                 {
-                    "content": "WELCOME TO MY WORLD"
+                    "content": "WELCOME TO MY WEBSITE"
                 },
                 {
-                    "content": "Hi, I’m <span>Jone Lee</span>"
+                    "content": "Hi, I’m <span>Max Fausnight</span>"
                 }
             ],
             "animated_texts": [
-                "Developer.",
-                "Professional Coder.",
-                "Designer."
+                "Web-3 Developer.",
+                "Operational Manager",
+                "Post Production Editor"
             ],
             "texts": [
                 {
-                    "content": "I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that."
+                    "content": "I choose to lead by serving my team at all costs. I'm fueled by a burning curiosity for what problem we get to solve next. Let's connect!"
                 }
             ],
             "skills": [
